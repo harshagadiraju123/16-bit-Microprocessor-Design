@@ -1,5 +1,5 @@
 # 16-bit-Microprocessor-Design
-This is our project on Integrated Circuit Design for Digital VLSI Class.
+This is my project on Integrated Circuit Design for Digital VLSI Class.
 
 Implemented and synthesized a 16-bit general purpose RISC processor with 22 instructions and 16 general purpose registers 0.5um CMOS process Technology.  The processes Floor planning, Placement, Clock tree synthesis, Routing, Timing, DRC & LVS and padding are performed using the custom cell library.
 
