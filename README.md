@@ -1,15 +1,15 @@
 # 16-bit-Microprocessor-Design
 This is our project on Integrated Circuit Design for Digital VLSI Class.
 
-Implemented and synthesized a 16-bit general purpose RISC processor with 22 instructions and 16 general purpose registers 0.5um CMOS proces Technology.  The processes Floor planning, Placement, Clock tree synthesis, Routing, Timing, DRC & LVS and padding are performed using the custom cell library.
+Implemented and synthesized a 16-bit general purpose RISC processor with 22 instructions and 16 general purpose registers 0.5um CMOS process Technology.  The processes Floor planning, Placement, Clock tree synthesis, Routing, Timing, DRC & LVS and padding are performed using the custom cell library.
 
-For the processor,
+For the processor:
 
-1. RTL Design:the internal modules Controller, Datapath and ALU are described in Verilog and tested it with ModelSim Verilog Simulator.
+1. RTL Design: the internal modules Controller, Data path and ALU are described in Verilog and tested it with ModelSim Verilog Simulator.
 
-2. Standard Cell Library: drew layouts and schematics of basic gates with varying drive strengths in standard cell format in Cadence Virtuoso Layout Editor and the funcationality of the cells is checked using NC Verilog.
+2. Standard Cell Library: drew layouts and schematics of basic gates with varying drive strengths in standard cell format in Cadence Virtuoso Layout Editor and the functionality of the cells is checked using NC Verilog.
 
-3. Library Characterization:library Characterization for the standard cell library is performed using the ELC Library characterizer.
+3. Library Characterization: library Characterization for the standard cell library is performed using the ELC Library characterizer.
 
 4. Synthesis: synthesis was carried using the Synopsys DC compiler.
 
@@ -17,5 +17,5 @@ For the processor,
 
 6. Place and Route: Place and route was carried out using the SoC Encounter Tool.
 
-Tools Used: Model Sim, Sysnopsis DC Compiler, Cadence Virtuoso Layout Editor, SoC Encouter, NC Verilog, Cadence Abstract View generator.
+Tools Used: Model Sim, Synopsys DC Compiler, Cadence Virtuoso Layout Editor, SoC Encounter, NC Verilog, Cadence Abstract View generator.
 
